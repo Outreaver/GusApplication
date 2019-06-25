@@ -17,7 +17,7 @@ namespace GusApplication.Data
         {
             get { return this.klient; }
         }
-
+        
         public Połącz(UslugaBIRzewnPublClient klient)
         {
             this.klient = klient;
